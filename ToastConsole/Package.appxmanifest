@@ -59,7 +59,7 @@
 	        Executable="ToastConsole.exe" 
           EntryPoint="ToastConsole.Program">
           <uap5:AppExecutionAlias desktop4:Subsystem="console" iot2:Subsystem="console">
-            <uap5:ExecutionAlias Alias="ToastConsole.exe" />
+            <uap5:ExecutionAlias Alias="ToastSender.exe" />
           </uap5:AppExecutionAlias>
         </uap5:Extension>
       </Extensions>
